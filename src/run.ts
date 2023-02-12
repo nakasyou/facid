@@ -1,3 +1,5 @@
 export default function(){
-    document.getElementById
+    const did=document.getElementById("did").value;
+    const tid=document.getElementById("tid").value;
+    
 }
